@@ -29,4 +29,4 @@ If you want to ask for a specific project, implementation or general help with s
   You can't argue with data!  
 
 ### Other activities  
-I also started a YouTube channel, follow me: [Tcheco](https//:youtube.com/@TchecoGaming)  
+I also started a YouTube channel, follow me: [Tcheco](https://youtube.com/@TchecoGaming)  
