@@ -1,4 +1,4 @@
-### 🤙 WHAT UP? 🤙
+### 🤙 WHAT UP, VISITOR? 🤙
 
 My name is Henrique Werneck.  
 I am a robotics engineer and researcher, currently working on a PhD at Universidade Federal do ABC.  
@@ -8,7 +8,7 @@ I hope my projects can be helpful to you, dear visitor! 🫰
 Things are way off from what I plan for this place, but I am working to get more here soon.  
 If you want to ask for a specific project, implementation or general help with something, please get in touch.  
 
-### Research interests
+### 📚 Research interests
 
 - Robotics 🤖  
   From mobile to manipulators  
