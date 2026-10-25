@@ -21,12 +21,12 @@ If you want to ask for a specific project, implementation or general help with s
   From simulation to real-world with simmetry!  
 - Artificial intelligence 🧠  
   Machine learning, specially reinforcement learning, knowledge and scene representation, reasoning, LLMs, attention, list goes on  
-- Algorithms  
+- Algorithms </>  
   Analysis, optimisation and modelling  
-- Embedded systems  
+- Embedded systems 🔳  
   I am one of those people who feel excited when people put more features on a even smaller board  
-- Data science  
+- Data science 📈  
   You can't argue with data!  
 
 ### Other activities  
-I also started a YouTube channel, follow me: [Tcheco](https://youtube.com/@TchecoGaming)  
+I also started a YouTube channel, follow me: [Tcheco](https://youtube.com/@TchecoGaming) 🎮
