@@ -11,7 +11,7 @@ If you want to ask for a specific project, implementation or general help with s
 ### 📚 Research interests
 
 🤖 Robotics  
-&nbsp; From mobile to manipulators  
+&emsp; From mobile to manipulators  
 &nbsp; With their end-effect actuators  
 &nbsp; Multiple legs, wheels and wings  
 &nbsp; With, without or despite humans beings  
