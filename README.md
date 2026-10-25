@@ -7,8 +7,6 @@ If you feel I can help you with anything, you can contact me through Discord, Li
 
 ### Research interests
 
-• Robotics
-
-• Artificial intelligence
-
-• Machine learning
+- Robotics
+- Artificial intelligence
+- Machine learning
